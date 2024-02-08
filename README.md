@@ -19,4 +19,12 @@ La domótica, por otro lado, se refiere a la automatización del hogar. Su objet
 
 En resumen, la domótica y el IoT trabajan en conjunto para ofrecer soluciones que mejoren la comodidad, eficiencia y seguridad en nuestros hogares, al tiempo que simplifican nuestras vidas mediante la automatización de tareas cotidianas.
 
+## Universal Window Platform (UWP) pantalla principal:
+<img src="Images/uwo.PNG" alt="pantalla principal">
+---
+
+⚠️ **Este repositorio se encuentra actualmente en mantenimiento. Estaremos de vuelta pronto.**
+
+---
+
 Para obtener más información sobre este tema, se puede consultar el siguiente tema de tesis de posgrado: [Domótica e Internet de las Cosas (IoT)](https://rinacional.tecnm.mx/jspui/bitstream/TecNM/1543/1/2021-190_RobertoLorenzo_Aguilar_Maldonado.pdf).
